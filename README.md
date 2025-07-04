@@ -1,7 +1,7 @@
 
-# 🎙️ Speech Tone Analyzer
+# 🎙️ Speech Coach Analyzer
 
-The **Speech Tone Analyzer** is a Python-based tool that analyzes recorded or uploaded speech. It extracts the spoken text and evaluates tone, pause ratio, fluency score, and confidence level. This tool is useful for speech evaluation, interview feedback, communication training, and more.
+The **Speech Coach Analyzer** is a Python-based tool that analyzes recorded or uploaded speech. It extracts the spoken text and evaluates tone, pause ratio, fluency score, and confidence level. This tool is useful for speech evaluation, interview feedback, communication training, and more.
 
 ---
 
